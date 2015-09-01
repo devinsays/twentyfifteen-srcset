@@ -1,0 +1,15 @@
+/*
+Theme Name: Twenty Fifteen Srcset
+Author: Devin Price
+Author URI: https://wptheming.com
+Description: Experiments with "srcset" responsive images in Twenty Fifteen.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: twentyfifteen
+
+Install the responsive images plugin:
+https://github.com/ResponsiveImagesCG/wp-tevko-responsive-images
+*/
+
+@import url( '../twentyfifteen/style.css' );
